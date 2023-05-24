@@ -1,1 +1,1 @@
-A* Algorithm to find Minimum Path
+A* Algorithm to find Shortest Path
